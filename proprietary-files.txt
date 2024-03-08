@@ -440,9 +440,6 @@ product/etc/permissions/com.motorola.camera2.denali.xml:vendor/etc/permissions/c
 product/etc/permissions/com.motorola.moto-uirefresh.xml
 product/etc/permissions/com.motorola.motodisplay.xml
 
-# Offmode charging
-vendor/bin/hvdcp_opti
-
 # Peripheral manager
 vendor/bin/pm-proxy
 vendor/bin/pm-service
